@@ -46,3 +46,10 @@ Programa.cpp
 ![image](https://user-images.githubusercontent.com/60490932/93028116-03dbe700-f5cf-11ea-95ec-1e7f768e3e8d.png)
 Makefile
 ![image](https://user-images.githubusercontent.com/60490932/93028108-ec9cf980-f5ce-11ea-94b5-46d8b78349ce.png)
+
+Tarea
+Tarea.cpp
+![image](https://user-images.githubusercontent.com/60490932/93028519-a1d0b100-f5d1-11ea-97fc-9343273464fa.png)
+Tarea Makefile
+![image](https://user-images.githubusercontent.com/60490932/93028510-9bdad000-f5d1-11ea-9fb8-8de14dbd871b.png)
+
