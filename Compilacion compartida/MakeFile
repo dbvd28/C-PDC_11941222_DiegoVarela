@@ -1,0 +1,15 @@
+//makefile compilacion compartida
+all:
+g++ -fpic \
+~c Milibreria.cpp \
+~o Milibreria.o \
+g++ -shared
+Milibreria.o \
+~o libMilibreria.dll
+g++ Programa.cpp
+~L. -Milibreria \
+~o Programa
+cleanup:
+del Milibreria.o
+del Milibreria.so
+del Programa.exe

@@ -1,0 +1,2 @@
+Comparacion compilaciones
+La utilidad make requiere de un archivo, makefile, que define un conjunto de tareas a ejecutar. Esto hace que en la compilacion nomral solo se genere un archivo de ejecucion y en la compilacion compartida se unen varios archivos y se crea un programa con muchos bytes y en compilacion estatica es muy similar a la compilacion normal pero se trabaja de una forma diferente en el make.

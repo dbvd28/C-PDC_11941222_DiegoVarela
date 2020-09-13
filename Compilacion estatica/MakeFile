@@ -1,0 +1,7 @@
+//makefile
+all:
+g++ Programa.cpp \
+Milibreria.o \
+~o Programa
+cleanup:
+del Programa.exe
